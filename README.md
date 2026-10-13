@@ -1,116 +1,24 @@
+# 💫 About Me:
+🔭 I'm currently working on AI-powered applications like Supply Market and SentinelVoice AI.<br><br>🤝 I'm looking to collaborate on AI/ML and full-stack development projects.<br><br>🙌 I'm looking for help with Machine Learning, DSA, and building scalable AI applications.<br><br>🌱 I'm currently learning AI/ML, Data Structures & Algorithms in C++, and backend development.<br><br>💬 Ask me about Python, React, Flask, Generative AI, and my projects.<br><br>⚡ Fun fact: I love turning creative ideas into real-world AI solutions!
 
-<div align="center">
 
-# Hey, I'm Bhargav Ramana 👋
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhargav-marchi-a23b66395) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhargavramanamarchi@gmail.com) 
 
-### B.Tech CSE (AI/ML) Student | AI/ML Developer | Full-Stack Developer
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=bhargavramanamarchi&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=bhargavramanamarchi&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=bhargavramanamarchi&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+AI-powered+applications;Exploring+Machine+Learning+%26+LLMs;Learning+Full-Stack+Development;Turning+Ideas+Into+Projects" alt="Animated introduction" />
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=bhargavramanamarchi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<p>
-  <a href="https://github.com/bhargavramanamarchi">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/bharg-marchi-a23b66395/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-Hi! I'm **Bhargav**, a B.Tech Computer Science student specializing in AI/ML at NIAT, Hyderabad.
-
-- 🤖 Interested in AI, Machine Learning, and LLM-powered applications.
-- 💻 Building projects using Python, React, and modern web technologies.
-- 🧠 Practicing Data Structures and Algorithms using C++.
-- 🚀 Enjoy turning ideas into practical applications.
-- 🌱 Currently improving my skills in AI/ML and backend development.
-- 🎯 Goal: Build useful AI products and grow as a software developer.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=bhargavramanamarchi&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=bhargavramanamarchi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🛠️ Technologies & Tools
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
-
-### Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-### AI & Development Tools
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Gradio](https://img.shields.io/badge/Gradio-F97316?style=for-the-badge&logo=gradio&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-### 1. Supply Market — AI Supplier Matching
-
-An AI-powered supplier matching platform designed to help buyers discover suitable suppliers based on their requirements.
-
-- 🔎 Matches buyer requirements with supplier offerings.
-- 🤖 Uses AI to support intelligent recommendations.
-- 🗣️ Includes multilingual and voice-assistance features.
-
-**Tech:** React, TypeScript, Gemini AI, Murf AI
-
-[![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/bhargavramanamarchi/Supply-Market)
-
-### 2. SentinelVoice AI — Scam & Misinformation Analysis
-
-An AI-based application that helps analyze potentially misleading or scam-related content.
-
-- 🧠 Uses an LLM API to analyze user-provided content.
-- 🎙️ Integrates voice AI capabilities.
-- 🌐 Built with an interactive Gradio interface.
-
-**Tech:** Python, Google Gemini API, Murf AI, Gradio
-
-[![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/bhargavramanamarchi/sentinel-voice-ai-murf-ai)
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=bhargavramanamarchi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhargavramanamarchi&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
-
-<img src="https://streak-stats.demolab.com?user=bhargavramanamarchi&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-I'm always interested in learning, collaborating, and building projects.
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/bharg-marchi-a23b66395/)
-- 🧑‍💻 [GitHub](https://github.com/bhargavramanamarchi)
-
----
-
-<div align="center">
-
-### 💡 Learn • Build • Improve • Repeat
-
-*Thanks for visiting my profile! ⭐*
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
